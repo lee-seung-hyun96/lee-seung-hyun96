@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dltmdgus4120@gmail.com
 -->
 
-## Hi there 👋, my name is heonnnn
-### I am front-end Generator's creator
-
-
 **Skills**<br>
 
 Front-end : 
